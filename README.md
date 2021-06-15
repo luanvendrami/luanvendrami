@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**luanvendrami/luanvendrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luan Vendrami, i'm from Brazil . I'm software developer, that has been working as Back-end developer since 2021 💻
 
-Here are some ideas to get you started:
+Passionate about algorithms and logic, always developing new possibilities, but simpler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌏 "Life is like riding a bicycle. To keep your balance, you must keep moving."
+
+- 📍 From SC living in Rodeio
+- 💻 Back-end at Havan Labs
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/luan-vendrami/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/luanvendrami/) 
