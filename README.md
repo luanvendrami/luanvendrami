@@ -7,7 +7,7 @@ Passionate about algorithms and logic, always developing new possibilities, but 
 
 ### 🌏 "Life is like riding a bicycle. To keep your balance, you must keep moving."
 
-- 📍 From SC living in Rodeio
+- 📍 From SC living in Rodeio/Brazil
 - 💻 Back-end at Havan Labs
 
 Reach me out 👇🏼
