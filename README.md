@@ -8,7 +8,7 @@ Passionate about algorithms and logic, always developing new possibilities, but 
 ### 🌏 "Life is like riding a bicycle. To keep your balance, you must keep moving."
 
 - 📍 From Santa Catarina living in Brazil
-- 💻 Back-end at Havan Labs
+- 💻 FullStack at Havan Labs
 
 Reach me out 👇🏼
 
